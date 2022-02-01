@@ -22,7 +22,7 @@ I have a BSc degree in Computer Science, a masters in Computation (focused on Co
 - 💬 I like to teach and write tutorials ([already wrote](https://tutsplus.com/authors/fernando-bevilacqua) about many topics related to gamedev).
 - 🙌 The tutorial series [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732) that I authored is top 1 result on Google regarding steering behaviors. It has also been praised by Craig W. Reynolds, the original invetor of the technique (🤯).
 - 😅 Built a software ([Besearcher](https://github.com/Dovyski/Besearcher)) to run my experiments and e-mail me when anything interesting pops-up, so I could have more time for coffee.
-- 💚 I've been involved with open-source for quit a while. I've been a co-maintainer (of [Flixel Community](https://github.com/flixelcommunity), a game engine), main maintainer (of [cvui](https://github.com/Dovyski/cvui), a C++/python ui lib for OpenCV) and contributor ([Haxeflixel](https://github.com/haxeflixel) and [Flixel Studio](https://github.com/Dovyski/flixel-studio), for instance).
+- 💚 I've been involved with open source for quite a while. I've been a co-maintainer (of [Flixel Community](https://github.com/flixelcommunity), a game engine), main maintainer (of [cvui](https://github.com/Dovyski/cvui), a C++/python ui lib for OpenCV) and contributor ([Haxeflixel](https://github.com/haxeflixel) and [Flixel Studio](https://github.com/Dovyski/flixel-studio), for instance).
 
 ### 📫 Contact
 
