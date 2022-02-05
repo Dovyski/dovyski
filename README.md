@@ -31,6 +31,6 @@ Hit me up on any of the following channels:
 
 - ✉️ dovyski@gmail.com
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=dovyski&count_private=true&theme=dracula" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=dovyski&count_private=true&theme=dracula" width="400"/> 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dovyski&theme=dracula&langs_count=8&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dovyski&theme=dracula&langs_count=8&layout=compact" width="300"/>
