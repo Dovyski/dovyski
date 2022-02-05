@@ -19,6 +19,7 @@ I have a BSc degree in Computer Science, a masters in Computation (focused on Co
 - 📡 I've been a consultant for companies working with healthtech, AI/speech, games and education.
 - ⚡ Built my own code editor ([Codebot](https://github.com/Dovyski/Codebot)), then made it a web-based editor.
 - 🔭 I wrote a [few scientific papers](https://www.fernandobevilacqua.com/academic/publications/) about emotions, games and computers.
+- 🧐 Published a [software/method](https://www.youtube.com/watch?v=CoN8JuRZbwk) for detecting stress and boredom of players based on heart rate and facial actions (all done remotely, no sensors).
 - 💬 I like to teach and write tutorials ([already wrote](https://tutsplus.com/authors/fernando-bevilacqua) about many topics related to gamedev).
 - 🙌 The tutorial series [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732) that I authored is top 1 result on Google regarding steering behaviors. It has also been praised by Craig W. Reynolds, the original invetor of the technique (🤯).
 - 😅 Built a software ([Besearcher](https://github.com/Dovyski/Besearcher)) to run my experiments and e-mail me when anything interesting pops-up, so I could have more time for coffee.
