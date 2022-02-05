@@ -25,15 +25,12 @@ I have a BSc degree in Computer Science, a masters in Computation (focused on Co
 - 😅 Built a software ([Besearcher](https://github.com/Dovyski/Besearcher)) to run my experiments and e-mail me when anything interesting pops-up, so I could have more time for coffee.
 - 💚 I've been involved with open source for quite a while. I've been a co-maintainer (of [Flixel Community](https://github.com/flixelcommunity), a game engine), main maintainer (of [cvui](https://github.com/Dovyski/cvui), a C++/python ui lib for OpenCV) and contributor ([Haxeflixel](https://github.com/haxeflixel) and [Flixel Studio](https://github.com/Dovyski/flixel-studio), for instance).
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=dovyski&count_private=true&theme=dracula" /> 
-</a> 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dovyski&theme=dracula&langs_count=8&layout=compact" />
-</a>
-
 ### 📫 Contact
 
 Hit me up on any of the following channels:
 
 - ✉️ dovyski@gmail.com
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=dovyski&count_private=true&theme=dracula" /> 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dovyski&theme=dracula&langs_count=8&layout=compact" />
